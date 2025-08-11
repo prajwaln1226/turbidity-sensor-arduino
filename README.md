@@ -1,5 +1,4 @@
-# turbidity-sensor-arduino
-Arduino project for measuring water turbidity using an analog sensor, LCD display, and LEDs for status indication.
+Author : Prajwal N
 # Turbidity Sensor with Arduino
 
 This Arduino project measures water turbidity using an analog sensor and displays the results on a 16x2 LCD via I2C. It also uses LEDs to indicate the water clarity level: clear, cloudy, or dirty.
